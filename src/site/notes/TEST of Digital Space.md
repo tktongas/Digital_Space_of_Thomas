@@ -6,3 +6,5 @@
 # Test
 ## Test 1
 > test
+
+[[Test2|Test2]]
