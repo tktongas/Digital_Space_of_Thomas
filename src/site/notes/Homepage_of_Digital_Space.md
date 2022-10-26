@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/homepage-of-digital-space/","tags":"gardenEntry"}
 ---
 
-[[Python_Review|Python_Review]]
+
 # 总览
 | File                                                        | 更新时间             |
 | ----------------------------------------------------------- | ---------------- |
