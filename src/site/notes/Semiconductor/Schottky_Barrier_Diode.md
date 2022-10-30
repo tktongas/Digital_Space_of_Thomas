@@ -8,7 +8,7 @@ refer: [知乎视频：肖特基二极管的工作原理](https://www.zhihu.com/
 
 > 肖特基二极管，又称为Schottky Barrier Diode(SBD)。金属和半导体接触的时，电子会从半导体跑到金属里面去，形成空间电荷区。这个空间电荷区，会阻止半导体的电子继续向金属移动，也就是说形成了肖特基势垒。
 
-![400](./assets/Pasted%20image%2020220519154357.png)
+![](./assets/Pasted%20image%2020220519154357.png)
 ![400](./assets/Schottky_Barrier_Diode.assets/Pasted%20image%2020220519163016.png)
 
 - N失去了电子带正电，金属得到了电子带负电。
