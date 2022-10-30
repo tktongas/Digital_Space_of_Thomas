@@ -18,7 +18,7 @@
 ## 半导体
 | File                                                                | 更新时间             |
 | ------------------------------------------------------------------- | ---------------- |
-| [[Semiconductor/Schottky_Barrier_Diode.md\|Schottky_Barrier_Diode]] | October 29, 2022 |
+| [[Semiconductor/Schottky_Barrier_Diode.md\|Schottky_Barrier_Diode]] | October 30, 2022 |
 
 ---
 ## 读书笔记
