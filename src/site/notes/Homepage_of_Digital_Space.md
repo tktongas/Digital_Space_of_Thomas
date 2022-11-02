@@ -3,25 +3,25 @@
 ---
 
 
-# 总览
+# 1 总览
 
 ---
-## 计算机
+## 1.1 计算机
 
 | File                                   | 更新时间             |
 | -------------------------------------- | ---------------- |
-| [[CS/Pandas_Review.md\|Pandas_Review]] | October 30, 2022 |
-| [[CS/Python_Review.md\|Python_Review]] | October 30, 2022 |
-| [[CS/Linux_Review.md\|Linux_Review]]   | October 30, 2022 |
+| [[CS/Pandas_Review\|Pandas_Review]] | October 30, 2022 |
+| [[CS/Python_Review\|Python_Review]] | October 30, 2022 |
+| [[CS/Linux_Review\|Linux_Review]]   | October 30, 2022 |
 
 ---
-## 半导体
+## 1.2 半导体
 | File                                                                | 更新时间             |
 | ------------------------------------------------------------------- | ---------------- |
-| [[Semiconductor/Schottky_Barrier_Diode.md\|Schottky_Barrier_Diode]] | October 30, 2022 |
+| [[Semiconductor/Schottky_Barrier_Diode\|Schottky_Barrier_Diode]] | October 30, 2022 |
 
 ---
-## 读书笔记
+## 1.3 读书笔记
 | File | 更新时间 |
 | ---- | ---- |
 
