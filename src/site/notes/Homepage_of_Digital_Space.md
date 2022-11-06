@@ -3,10 +3,8 @@
 ---
 
 
-# 1. 总览
-
 ---
-## 1.1. 计算机
+# 1. 计算机
 
 | File                                   | 更新时间              |
 | -------------------------------------- | ----------------- |
@@ -15,14 +13,14 @@
 | [[CS/Linux_Review\|Linux_Review]]   | October 30, 2022  |
 
 ---
-## 1.2. 半导体
+# 2. 半导体
 | File                                                                | 更新时间              |
 | ------------------------------------------------------------------- | ----------------- |
 | [[Semiconductor/Schottky_Barrier_Diode\|Schottky_Barrier_Diode]] | November 06, 2022 |
 | [[Works/Part_Average_Test\|Part_Average_Test]]                   | November 06, 2022 |
 
 ---
-## 1.3. 读书笔记
+# 3. 读书笔记
 | File | 更新时间 |
 | ---- | ---- |
 
